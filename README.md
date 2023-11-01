@@ -1,5 +1,5 @@
 # Notebook-Theme
-### a responsive notebook themed styling for webpage layouts
+### a responsive notebook themed styling for webpage layout
 -----------------------------------------------------------------------------------------
 ![Theme](https://github.com/bcd-kushal/Notebook-Theme/assets/96081625/bf16cd03-c4cc-42e4-b020-9c3f720f96d7)
 -------------------------------------------------------------------------------------------
